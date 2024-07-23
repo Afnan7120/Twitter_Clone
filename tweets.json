@@ -1,0 +1,163 @@
+
+[
+{
+    "tweet_id": "1",
+    "username": "tech_guru",
+    "name": "John Doe",
+    "content": "https://i.pinimg.com/564x/f8/02/00/f80200c948f59a368701e19aaa0a0910.jpg",
+    "timestamp": "2h",
+    "image_url": "https://i.pinimg.com/564x/8b/08/d0/8b08d0127947da23310a14135b865f61.jpg"
+},
+{
+    "tweet_id": "2",
+    "username": "nature_lover",
+    "name": "Jane Smith",
+    "content": " (:  ربنا يجعلها آخر الاحزان ",
+    "timestamp": "2:30h",
+    "image_url": "https://i.pinimg.com/564x/b0/c1/43/b0c143a9951b612481977da7f0d759c3.jpg"
+},
+{
+    "tweet_id": "3",
+    "username": "foodie_chef",
+    "name": "Alice Johnson",
+    "content": "https://videos.pexels.com/video-files/1409338/1409338-hd_720_1280_30fps.mp4",
+    "timestamp": "3h",
+    "image_url": "https://i.pinimg.com/564x/0d/9e/ff/0d9effe80b8432643b8147a03d5df69d.jpg"
+},
+{
+    "tweet_id": "4",
+    "username": "travel_addict",
+    "name": "Michael Brown",
+    "content": "https://i.pinimg.com/564x/84/99/c2/8499c211c59d80ccd58d4e62b32ac44c.jpg",
+    "timestamp": "4h",
+    "image_url": "https://i.pinimg.com/736x/32/55/91/3255917b8ef5f12b9d00036b5bf04350.jpg"
+},
+{
+    "tweet_id": "5",
+    "username": "fitness_freak",
+    "name": "Chris Lee",
+    "content": "إن أعطيتَني ما أرجُو فبرحمتِك، وإن منعتَني فبِحكمتِك، وأنتَ تعلمُ وأنَا لا أعلَم.",
+    "timestamp": "5h",
+    "image_url": "https://i.pinimg.com/564x/ae/7d/56/ae7d56a3c846d03139a11574122dcb3e.jpg"
+},
+{
+    "tweet_id": "6",
+    "username": "book_worm",
+    "name": "Nancy Wilson",
+    "content": "https://i.pinimg.com/564x/d3/1c/23/d31c23ae27f87b60550faafb6321629f.jpg",
+    "timestamp": "6h",
+    "image_url": "https://i.pinimg.com/564x/04/c3/95/04c39509109b8e58b09532e82b46a858.jpg"
+},
+{
+    "tweet_id": "7",
+    "username": "movie_buff",
+    "name": "David Martinez",
+    "content": "إن الأحزانَ الصغيرةَ ثرثارةٌ، أمَّا عظيمُها فأبكَم",
+    "timestamp": "7h",
+    "image_url": "https://i.pinimg.com/736x/5e/bc/33/5ebc333234783426611cf07e193da65f.jpg"
+},
+{
+    "tweet_id": "8",
+    "username": "music_lover",
+    "name": "Sarah Davis",
+    "content": "https://i.pinimg.com/564x/c0/69/18/c06918201cbe145a95525077d1cee1a9.jpg",
+    "timestamp": "8h",
+    "image_url": "https://i.pinimg.com/564x/71/e6/e7/71e6e709438acea96201ede6799b5e13.jpg"
+},
+{
+    "tweet_id": "9",
+    "username": "gamer",
+    "name": "Kevin Taylor",
+    "content": "Just hit a new high score! #Gaming #Fun",
+    "timestamp": "9h",
+    "image_url": "https://i.pinimg.com/564x/79/61/cf/7961cf0e6cb417f60d031dbdd34104b4.jpg"
+},
+{
+    "tweet_id": "10",
+    "username": "fashionista",
+    "name": "Laura Anderson",
+    "content": "https://videos.pexels.com/video-files/5981203/5981203-uhd_2732_1440_25fps.mp4",
+    "timestamp": "10h",
+    "image_url": "https://i.pinimg.com/564x/6a/ef/8e/6aef8eae9c1d7455258bae7b523d1ee8.jpg"
+},
+{
+    "tweet_id": "11",
+    "username": "art_enthusiast",
+    "name": "James Thomas",
+    "content": "https://i.pinimg.com/564x/1a/4d/26/1a4d2676d76ed37d737b8bfedd30ae91.jpg",
+    "timestamp": "11h",
+    "image_url": "https://i.pinimg.com/736x/8e/00/da/8e00da1353207db0fcbab5f60e9387b3.jpg"
+},
+{
+    "tweet_id": "12",
+    "username": "car_lover",
+    "name": "Emily White",
+    "content": "إيه كل الإرهاق دا وليه؟",
+    "timestamp": "12h",
+    "image_url": "https://i.pinimg.com/736x/da/bd/be/dabdbe3d2cd75b0cfd98edc13fa92424.jpg"
+},
+{
+    "tweet_id": "13",
+    "username": "sports_fan",
+    "name": "Brian Harris",
+    "content": "https://pbs.twimg.com/media/GS9uJUHXgAAzo8Y?format=jpg&name=small",
+    "timestamp": "13h",
+    "image_url": "https://i.pinimg.com/736x/d2/b6/46/d2b646087a5368bb2e8cb46bf3fda768.jpg"
+},
+{
+    "tweet_id": "14",
+    "username": "fitness_guru",
+    "name": "Sophia Clark",
+    "content": "أحيانًا يكون أقسىٰ ما مر عليك، هو أسعد ما دُبر لك ..",
+    "timestamp": "14h",
+    "image_url": "https://i.pinimg.com/564x/c8/e3/5f/c8e35f6cd87639b88ea2065a7f77576e.jpg"
+},
+{
+    "tweet_id": "15",
+    "username": "tech_savvy",
+    "name": "William Lewis",
+    "content": "https://i.pinimg.com/736x/ee/e5/2b/eee52bccdd38034d44da37f7b41a66a1.jpg",
+    "timestamp": "15h",
+    "image_url": "https://i.pinimg.com/564x/42/1c/89/421c8918b5531cb8a4e2b5e0d8a7c29b.jpg"
+},
+{
+    "tweet_id": "16",
+    "username": "photography_lover",
+    "name": "Isabella Walker",
+    "content": "أسأل الله فؤاد الطير ورقة قلبه وسلامته",
+    "timestamp": "17h",
+    "image_url": "https://i.pinimg.com/564x/b7/3d/89/b73d898ebd3d2269c54a968356c8b966.jpg"
+},
+{
+    "tweet_id": "17",
+    "username": "diy_enthusiast",
+    "name": "Henry King",
+    "content": "إذا رأيت الله يؤنسك بذكره فقد أحبّك ، ومن أحبّهُ الله ، أحبه كل شيء.",
+    "timestamp": "18h",
+    "image_url": "https://i.pinimg.com/564x/db/19/5b/db195b9fc32578111140481d7107be26.jpg"
+},
+{
+    "tweet_id": "18",
+    "username": "pet_lover",
+    "name": "Mia Allen",
+    "content": "https://i.pinimg.com/564x/48/81/7c/48817c3e9036179fe280d5a1470f5e48.jpg",
+    "timestamp": "19h",
+    "image_url": "https://i.pinimg.com/564x/fb/71/92/fb7192b53957668a36e977f443513268.jpg"
+},
+{
+    "tweet_id": "19",
+    "username": "travel_junkie",
+    "name": "Ethan Wright",
+    "content": "و اجعلي من لدنك سلطانا نصيرا",
+    "timestamp": "20h",
+    "image_url": "https://i.pinimg.com/564x/f8/58/f7/f858f7db418219903cbe9822a8e7596e.jpg"
+},
+{
+    "tweet_id": "20",
+    "username": "food_blogger",
+    "name": "Olivia Scott",
+    "content": "https://i.pinimg.com/564x/76/ee/21/76ee215a945cec685e764cdfbae6be01.jpg",
+    "timestamp": "1d",
+    "image_url": "https://i.pinimg.com/564x/8f/9e/02/8f9e0206ba7fd426c519768d25b8b9ad.jpg"
+}
+]

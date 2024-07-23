@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+  }
+  #mockTextBox
+  {
+    width:300px;
+    height:50px;
+    border:1px solid;
+    display:inline-block;
+    margin-top:10px
+  }
+  
+  #originalTextBox
+  {
+      width: 300px;
+      height: 100px;
+      resize: none;
+      border: 1px solid #337ab7;
+      background-color: #337ab7;
+      margin-top: 10px;
+  }
+  
+  #originalTextBox textarea
+  {
+   
+    resize:none;
+  }
+  
+  .class2
+  {
+       float: right;
+      margin-top: 12px;
+      margin-right: 2px;
+  }
+  
+  .imgF1
+  {
+    width:20px;
+    height:20px;
+    margin:5px
+  }
+  
+.tweets {
+  padding: 20px;
+}
+
+.tweet {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.tweet img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.username {
+  font-size: 16px;
+}
+
+.text {
+  font-size: 14px;
+}
+
+.nav-collapse.collapse {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+}
+
+.nav-collapse.show {
+  max-height: unset;
+}

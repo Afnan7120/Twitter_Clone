@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center; /* centers items horizontally */
+  align-items: center; /* centers items vertically */
+}
+
+.pt-serif-regular {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-serif-bold {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-serif-regular-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-serif-bold-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.logo{
+    margin-top: 15%;
+}
+
+.or{
+    color: rgb(162, 159, 159) ;
+    padding-left: 25%;
+}
+.or2{
+    color: rgb(162, 159, 159) ;
+    padding-left: 35%;
+}
+
+
+.createAccBtn{
+   background-color: rgb(29, 155, 240);
+   color: white;
+}
+.createAccBtn:hover{
+    background-color: rgb(26, 141, 218);
+}
+.terms{
+    font-size:10px;
+}
+a{
+    text-decoration: none;
+}
+
+.signinBtn:hover{
+    background-color: rgb(7, 34, 52);
+}
+
+footer a,footer span{
+    color: rgb(113, 118, 123);
+    font-size: small;
+}
+
