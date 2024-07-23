@@ -14,5 +14,3 @@
 - Pagination to load 5 tweets every page
 - Responsive Design
 
-### Check live demo:
-https://afnan7120.github.io/Twitter-clone/
